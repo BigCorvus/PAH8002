@@ -6,3 +6,5 @@ https://hackaday.io/project/85463-color-open-source-smartwatch
 
 
 Contains a precompiled library (PAH8002HRmon). A tutorial on its usage in the Arduino IDE: https://www.youtube.com/watch?v=E0W65KbaeA8&t=1095s
+
+In case any licenses are violated by publishing this, let me know.
